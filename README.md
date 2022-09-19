@@ -23,7 +23,7 @@ This application will allow users to edit text. You can either use the app in yo
     
 > open http://localhost:3001/
   
-**Option B:** Deployed App link [**link**](https://jest-text-editor-leman.herokuapp.com/)
+**Option B:** Deployed App [**link**](https://jest-text-editor-leman.herokuapp.com/)
 ## Walkthrough
 
 https://user-images.githubusercontent.com/64149102/191061247-fdd17069-93ab-49bb-b24d-96e8917a703c.mp4
