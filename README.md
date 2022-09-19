@@ -13,7 +13,7 @@ This application takes an existing text editor app and adds functionality for it
 ## Installation
 1. Clone the repo using this [**link**](https://github.com/Leman102/jate-text-editor)
 2. Execute and run the following command in Terminal:
-    - > npm install
+    > npm install
 ## Usage
 This application will allow users to edit text. You can either use the app in your own environment or use the deployed app in heroku:
 
